@@ -1,4 +1,47 @@
+
+
+/*.offset-cs-6{
+
+}*/
+/**/
+
+
+
+@media (min-width: 769px) and (max-width: 991px) {
+
+
+.ml-n9{
+margin-right:   -700px;
+
+}
+}
+.text_content{
+	
+	min-height: 1310px;
+}
+
+.conteiner_main_photo{
+	position: relative;
+	left: -99px;
+}
+
+.mx-md-cs{
+	position: relative;
+	left: -35px;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+.ml-n8{
+margin-right:  -700px;
+
+}
+};
+
+
 /*Header*/
+
 .logo{
 	margin-top: 3px;
 	margin-left: 30px;
@@ -13,12 +56,14 @@
 
 .bg-header,.row{
 	padding: 5px;
+
 }
 
 
 .bg-header{
 	background-color: #eae8e9;
 	height: 100px;
+
 }
 
 
@@ -28,8 +73,8 @@
 .about{
 	height: 100px;
 	background-color: #c8c10d;
-	width: 1903px;	
-	margin-left: -5px;
+	
+	
 	margin-top: 26px;
 }
 
@@ -45,25 +90,34 @@ font-family: 'Lato Regular', sans-serif;
 
 .conteiner_main_photo{
 	margin-top: -0.5px;
-	width:  1903px;
+	max-width:  1970px;
+	overflow: hidden;
 	height: 240px;
-	background-color: #efefef;
-	margin-left: -5px;
+	background-color:#efefef;
+	margin-left: 102px;
 }
 
+
+
+}
 /*Загальний блокі main'a*/
 
 .conteiner_main_text{
 	margin-top: 40px;
+		
 }
 
 /*Main Text*/
 
 .text_content{
-	height: 1000px;
+	
+	height:  1000px;
 	margin-left: 15.8px;
 	font-family: 'Lato Regular', sans-serif;
 font-family: 'Roboto', sans-serif;
+	
+
+
 }
 
 /*Content*/
@@ -72,6 +126,7 @@ font-family: 'Roboto', sans-serif;
 	color: #cb3362;
 	padding-left: 50px;
 	height: 52px;
+
 }
 
 
@@ -127,6 +182,7 @@ font-family: 'Roboto', sans-serif;
 	align-items: center;
 	font-family: 'Lato', sans-serif;
 font-family: 'Roboto', sans-serif;
+
 }
 
 .sidebar h1{
@@ -140,7 +196,7 @@ font-family: 'Roboto', sans-serif;
 .sidebar span{
 	line-height: 50.8px;
 	text-align: center;
-	padding-left: 140px;
+	padding-left: 0px;
 
 
 }
@@ -156,8 +212,8 @@ font-family: 'Roboto', sans-serif;
 .footer{
 	background-color:#cb3362;
 	height: 265.5px;
-	margin-left: -4.8px;
-	width: 1903px;
+	
+
 
 }
 
